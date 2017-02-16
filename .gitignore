@@ -2,7 +2,7 @@
 logs/
 
 #prosto fail
-logs/df.txt
+logs/*.txt
 
 # folder max
 max/
