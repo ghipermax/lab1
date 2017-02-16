@@ -1,6 +1,9 @@
 # folder logs
 logs/
 
+#prosto fail
+logs/gf.txt
+
 # folder max
 max/
 
